@@ -1,2 +1,2 @@
-# meu_primeiro_site
-apredendo html na etec
+# meuprimeirosite_1C_TurmaB_2025
+Repositório destinado ao aprendizado básico de html e css
