@@ -17,5 +17,4 @@ https://pietrosantos280.github.io/meu_primeiro_site/meu_primeiro_site/indexinter
 
 https://pietrosantos280.github.io/meu_primeiro_site/meu_primeiro_site/indexexterno.html
 
-
 Repositório destinado ao aprendizado básico de html e css
