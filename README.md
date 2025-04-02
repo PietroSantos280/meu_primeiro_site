@@ -5,12 +5,15 @@
 https://pietrosantos280.github.io/meu_primeiro_site/
 
 #css inline
-https://pietrosantos280.github.io/meu_primeiro_site/meu_primeiro_site/css/index.html
+
+https://pietrosantos280.github.io/meu_primeiro_site/meu_primeiro_site/index.html
 
 #css interno
-https://pietrosantos280.github.io/meu_primeiro_site/meu_primeiro_site/css/indexinterno.html
+
+https://pietrosantos280.github.io/meu_primeiro_site/meu_primeiro_site/indexinterno.html
 
 #css externo
-https://pietrosantos280.github.io/meu_primeiro_site/meu_primeiro_site/css/indexexterno.html
+
+https://pietrosantos280.github.io/meu_primeiro_site/meu_primeiro_site/indexexterno.html
 
 Repositório destinado ao aprendizado básico de html e css
