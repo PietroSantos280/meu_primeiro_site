@@ -2,7 +2,7 @@
 
 #primeiro teste
 
-https://pietrosantos280.github.com/meu_primeiro_site/
+https://pietrosantos280.github.io/meu_primeiro_site/
 
 #css inline
 
